@@ -1,192 +1,204 @@
-# مكتبة هاني | Hany Bookstore
+# مكتبة هاني
 
 <div align="center">
 
-🚀 **Professional Website for Hany Library**
+🚀 **موقع احترافي لمكتبة هاني**
 
-Offering printing, electronic payment, Vodafone Cash, and digital services using **HTML, CSS, JavaScript, and SQL**
+يوفر خدمات الطباعة والدفع الإلكتروني وفودافون كاش والخدمات الرقمية باستخدام **HTML و CSS و JavaScript و SQL**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/Language-HTML%2FCSS%2FJS-yellow.svg)]()
-[![Database](https://img.shields.io/badge/Database-SQL-brightgreen.svg)]()
+[![الرخصة](https://img.shields.io/badge/%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9-MIT-blue.svg)](LICENSE)
+[![اللغة](https://img.shields.io/badge/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-HTML%2FCSS%2FJS-yellow.svg)]()
+[![قاعدة البيانات](https://img.shields.io/badge/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-SQL-brightgreen.svg)]()
 
-[Features](#-features) • [Services](#-services) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [Contact](#-contact)
+[المميزات](#-المميزات) • [الخدمات](#-الخدمات) • [تقنيات](#-التقنيات) • [التثبيت](#-التثبيت) • [الاستخدام](#-الاستخدام) • [التواصل](#-التواصل)
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## 📋 جدول المحتويات
 
-- [About](#about)
-- [Features](#-features)
-- [Services](#-services)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contact](#-contact)
-- [License](#-license)
-
----
-
-## About
-
-**مكتبة هاني** is a professional, user-friendly website designed for a modern bookstore and printing service center. It provides customers with quick access to services, pricing calculators, and multiple payment options including electronic payment and Vodafone Cash integration.
+- [حول المشروع](#حول-المشروع)
+- [المميزات](#-المميزات)
+- [الخدمات](#-الخدمات)
+- [التقنيات](#-التقنيات)
+- [هيكل المشروع](#-هيكل-المشروع)
+- [التثبيت](#-التثبيت)
+- [الاستخدام](#-الاستخدام)
+- [التواصل](#-التواصل)
+- [الرخصة](#-الرخصة)
 
 ---
 
-## ✨ Features
+## حول المشروع
 
-- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- 💳 **Multiple Payment Options** - Electronic payment and Vodafone Cash support
-- 🖨️ **Printing Services** - Color and B&W printing calculations
-- 📞 **Easy Contact** - Direct WhatsApp and phone call integration
-- ⚡ **Fast Performance** - Lightweight and optimized code
-- 🎨 **Modern UI** - Clean and professional interface
-- 🌐 **Arabic & RTL Support** - Full right-to-left language support
-- 🔢 **Price Calculator** - Dynamic pricing for printing services
+**مكتبة هاني** موقع احترافي وسهل الاستخدام مصمم لمكتبة حديثة ومركز خدمات طباعة. يوفر للعملاء إمكانية الوصول السريع للخدمات وحاسبة الأسعار وخيارات دفع متعددة تشمل الدفع الإلكتروني وفودافون كاش.
 
 ---
 
-## 🛍️ Services
+## ✨ المميزات
 
-The platform offers the following services:
-
-| Service | Description |
-|---------|------------|
-| 🎨 **Color & B&W Printing** | High-quality color and black & white printing services |
-| 📄 **Document Copying** | Professional document copying and reproduction |
-| 📝 **Word & Research Files** | Thesis preparation, research papers, and document formatting |
-| 💰 **Vodafone Cash** | Secure mobile payment solution |
-| ⚡ **Electronic Services** | Instant mobile recharge and digital services |
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
-| **Styling** | CSS3 (Flexbox, Grid) |
-| **Interactivity** | Vanilla JavaScript |
-| **Database** | SQL |
-| **Language Support** | Arabic (RTL) |
+- 📱 **تصميم متجاوب** - يعمل بسلاسة على أجهزة سطح المكتب والأجهزة اللوحية والهواتف الذكية
+- 💳 **خيارات دفع متعددة** - دعم الدفع الإلكتروني وفودافون كاش
+- 🖨️ **خدمات الطباعة** - حاسبة أسعار ديناميكية للطباعة
+- 📞 **سهولة التواصل** - تكامل مباشر مع WhatsApp والهاتف
+- ⚡ **أداء سريع** - كود خفيف ومحسّن
+- 🎨 **واجهة حديثة** - تصميم نظيف واحترافي
+- 🌐 **دعم اللغة العربية** - دعم كامل من اليمين لليسار (RTL)
+- 🔢 **حاسبة الأسعار** - حساب ديناميكي لأسعار الطباعة
 
 ---
 
-## 📁 Project Structure
+## 🛍️ الخدمات
+
+المنصة توفر الخدمات التالية:
+
+| الخدمة | الوصف |
+|--------|-------|
+| 🎨 **الطباعة الملونة والأبيض والأسود** | خدمات طباعة عالية الجودة ملونة وأبيض وأسود |
+| 📄 **تصوير المستندات** | تصوير واستنساخ احترافي للمستندات |
+| 📝 **ملفات Word والأبحاث** | إعداد الرسائل والأبحاث وتنسيق المستندات |
+| 💰 **فودافون كاش** | حل الدفع الآمن عبر الهاتف المحمول |
+| ⚡ **الخدمات الإلكترونية** | شحن فوري وخدمات رقمية متنوعة |
+
+---
+
+## 🛠️ التقنيات المستخدمة
+
+| الطبقة | التقنية |
+|-------|---------|
+| **الواجهة الأمامية** | HTML5 و CSS3 و JavaScript (Vanilla) |
+| **التنسيق والتصميم** | CSS3 (Flexbox و Grid) |
+| **التفاعلية** | JavaScript |
+| **قاعدة البيانات** | SQL |
+| **دعم اللغات** | اللغة العربية (من اليمين لليسار) |
+
+---
+
+## 📁 هيكل المشروع
 
 ```
-HanyBookstore/
-├── index.html          # Main HTML file (Arabic RTL)
-├── style.css           # Styling and layout
-├── script.js           # JavaScript functionality
-├── README.md           # Project documentation
-└── assets/             # (Images, icons, etc.)
+مكتبة-هاني/
+├── index.html          # ملف HTML الرئيسي (عربي RTL)
+├── style.css           # ملف التنسيق والتصميم
+├── script.js           # ملف JavaScript للوظائف
+├── README.md           # ملف التوثيق
+└── assets/             # (الصور والرموز وغيرها)
 ```
 
 ---
 
-## 💻 Installation
+## 💻 التثبيت
 
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- A local web server (optional, for development)
-- SQL database setup (for backend services)
+### المتطلبات
+- متصفح ويب حديث (Chrome أو Firefox أو Safari أو Edge)
+- خادم ويب محلي (اختياري للتطوير)
+- إعداد قاعدة بيانات SQL (للخدمات الخلفية)
 
-### Steps
+### خطوات التثبيت
 
-1. **Clone the repository**
+1. **استنساخ المستودع**
    ```bash
    git clone https://github.com/OmarCodes1/HanyBookstore.git
    cd HanyBookstore
    ```
 
-2. **Open in browser**
+2. **فتح في المتصفح**
    ```bash
-   # Simply open index.html in your browser
+   # ببساطة افتح ملف index.html في متصفحك
    open index.html
    
-   # Or use a local server
+   # أو استخدم خادم محلي
    python -m http.server 8000
-   # Then visit http://localhost:8000
+   # ثم قم بزيارة http://localhost:8000
    ```
 
-3. **Configure database** (if using backend)
-   - Update database connection settings in your backend files
-   - Run SQL migration scripts if provided
+3. **إعداد قاعدة البيانات** (إذا كنت تستخدم الخدمات الخلفية)
+   - حدّث إعدادات الاتصال بقاعدة البيانات في ملفاتك الخلفية
+   - قم بتشغيل سكريبتات قاعدة البيانات إذا توفرت
 
 ---
 
-## 🎯 Usage
+## 🎯 كيفية الاستخدام
 
-### For Customers
+### للعملاء
 
-1. **View Services** - Browse available printing and copying services
-2. **Calculate Price** - Use the price calculator to estimate printing costs
-3. **Contact Hany** - Reach out via WhatsApp or phone
-4. **Make Payment** - Choose from electronic payment or Vodafone Cash
+1. **عرض الخدمات** - تصفح خدمات الطباعة والتصوير المتاحة
+2. **حساب السعر** - استخدم حاسبة الأسعار لتقدير تكاليف الطباعة
+3. **التواصل مع هاني** - تواصل عبر WhatsApp أو الهاتف
+4. **الدفع** - اختر من الدفع الإلكتروني أو فودافون كاش
 
-### For Developers
+### للمطورين
 
-1. **Customize Styling** - Edit `style.css` for design changes
-2. **Add Features** - Modify `script.js` for new functionality
-3. **Update Content** - Edit `index.html` for service information
-4. **Extend Backend** - Integrate with your SQL database as needed
+1. **تخصيص التصميم** - عدّل `style.css` لتغييرات التصميم
+2. **إضافة ميزات** - عدّل `script.js` لإضافة وظائف جديدة
+3. **تحديث المحتوى** - عدّل `index.html` لمعلومات الخدمات
+4. **توسيع النظام الخلفي** - دمج قاعدة بيانات SQL حسب الحاجة
 
-### Price Calculator Example
+### مثال على حاسبة الأسعار
 
 ```javascript
-// Input: Number of papers
-// Output: Calculated price based on paper count
-// Usage: Enter paper count and click "احسب السعر" (Calculate Price)
+// الإدخال: عدد الأوراق
+// الإخراج: السعر المحسوب بناءً على عدد الأوراق
+// الاستخدام: أدخل عدد الأوراق واضغط "احسب السعر"
 ```
 
 ---
 
-## 📞 Contact
+## 📞 التواصل
 
-**Hany Bookstore Services**
+**خدمات مكتبة هاني**
 
-- 📱 **WhatsApp (Business):** [+20 109 596 0704](https://wa.me/201095960704)
-- ☎️ **Phone (Cash & Mobile):** [+20 100 084 9907](tel:01000849907)
-- 📧 **Email:** [Contact form on website]
-- 🕐 **Hours:** [Add business hours here]
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+- 📱 **WhatsApp (للعمل):** [01095960704](https://wa.me/201095960704)
+- ☎️ **الهاتف (الكاش والمحمول):** [01000849907](tel:01000849907)
+- 📧 **البريد الإلكتروني:** [نموذج التواصل على الموقع]
+- 🕐 **ساعات العمل:** [أضف ساعات العمل هنا]
 
 ---
 
-## 🤝 Contributing
+## 📄 الرخصة
 
-Contributions are welcome! If you'd like to improve this project:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+هذا المشروع مرخص تحت رخصة **MIT** - اطلع على ملف [LICENSE](LICENSE) للتفاصيل.
 
 ---
 
-## 📊 Project Stats
+## 🤝 المساهمة
 
-- **Language:** Arabic (RTL) + English
-- **Created:** 2026
-- **Status:** Active
-- **Maintenance:** Regular updates
+المساهمات مرحب بها! إذا كنت تريد تحسين هذا المشروع:
+
+1. قم بعمل Fork للمستودع
+2. أنشئ فرع للميزة الجديدة (`git checkout -b feature/ميزة-رائعة`)
+3. قم بتأكيد التغييرات (`git commit -m 'إضافة ميزة رائعة'`)
+4. ادفع إلى الفرع (`git push origin feature/ميزة-رائعة`)
+5. افتح Pull Request
+
+---
+
+## 📊 إحصائيات المشروع
+
+- **اللغة:** اللغة العربية (من اليمين لليسار)
+- **سنة الإنشاء:** 2026
+- **الحالة:** نشط وقيد التطوير
+- **الصيانة:** تحديثات منتظمة
+
+---
+
+## 🎓 ملاحظات مهمة
+
+- تأكد من استخدام متصفح حديث يدعم HTML5 و CSS3
+- يفضل استخدام خادم محلي عند التطوير
+- تأكد من صحة اتصال قاعدة البيانات قبل التشغيل
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for Hany Bookstore**
+**تم إنشاؤه بـ ❤️ لمكتبة هاني**
 
-*Professional Printing & Digital Services*
+*خدمات طباعة واحترافية رقمية*
+
+---
+
+© 2026 جميع الحقوق محفوظة لمكتبة هاني
 
 </div>
